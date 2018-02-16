@@ -1,0 +1,12 @@
+1 - "jms/serializer-bundle"  => http://jmsyst.com/bundles/JMSSerializerBundle/master/installation => composer require jms/serializer-bundle "^2.0"
+2 - "friendsofsymfony/user-bundle"  => https://symfony.com/doc/current/bundles/FOSUserBundle/index.html => composer require friendsofsymfony/user-bundle "~2.0"
+3 - "nelmio/cors-bundle"  => https://github.com/nelmio/NelmioCorsBundle => composer require nelmio/cors-bundle
+
+
+
+
+
+https://blog.eleven-labs.com/fr/angular2-symfony3-comment-creer-rapidement-systeme-dauthentification/
+
+
+https://www.youtube.com/watch?v=9YmPI-RUp1c
